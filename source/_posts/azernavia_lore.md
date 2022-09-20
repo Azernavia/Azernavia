@@ -1,6 +1,7 @@
 ---
 title: The lore of Azernavia
-date: 2022-09-09 22:46:37
+date: 2022-09-20 22:46:37
+author: Arun Suresh
 tags:
 ---
 
